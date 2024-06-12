@@ -4,7 +4,7 @@
 title = Simple paint
 
 # (str) Package name
-package.name = mypaint.app
+package.name = mypaintapp
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
@@ -37,7 +37,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy==2.1.0,kivymd1.1.1,sdl_ttf==2.0.15,pillow
+requirements = python3,kivy
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
